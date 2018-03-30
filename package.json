@@ -1,0 +1,16 @@
+{
+    "name": "vscode-java-server-pack",
+    "displayName": "Java Server Extension Pack",
+    "description": "These are some of the extensions of java servers.",
+    "version": "0.0.1",
+    "publisher": "SummerSun",
+    "engines": {
+        "vscode": "^1.21.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [ 
+        "publisher.extensionName"
+    ]
+}
