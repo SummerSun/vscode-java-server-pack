@@ -4,13 +4,29 @@
     "description": "These are some of the extensions of java servers.",
     "version": "0.0.1",
     "publisher": "SummerSun",
+    "preview": true,
     "engines": {
         "vscode": "^1.21.0"
     },
+    "icon": "logo.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SummerSun/vscode-java-server-pack"
+    },
+    "homepage": "https://github.com/SummerSun/vscode-java-server-pack",
+    "bugs": {
+        "url": "https://github.com/SummerSun/vscode-java-server-pack/issues"
+    },
+    "keywords": [
+        "java",
+        "server"
+    ],
     "categories": [
         "Extension Packs"
     ],
-    "extensionDependencies": [ 
-        "publisher.extensionName"
+    "extensionDependencies": [
+        "redhat.java",
+        "adashen.vscode-tomcat",
+        "summersun.vscode-jetty"
     ]
 }
