@@ -3,5 +3,9 @@ All notable changes to the "vscode-java-server-pack" extension pack will be docu
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [0.1.0]
+## 0.0.2
+### Added
+* Add Jetty demo
+
+## 0.0.1
 - Initial release
