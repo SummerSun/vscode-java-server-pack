@@ -9,7 +9,7 @@ These are some of the extensions of java servers.
 
 ![Tomcat](Tomcat.gif)
 
-- [Jetty]
+- [Jetty](https://marketplace.visualstudio.com/items?itemName=summersun.vscode-jetty)
   - Provide Jetty Server Support for java developers
 ![Jetty](Jetty.gif)
 
