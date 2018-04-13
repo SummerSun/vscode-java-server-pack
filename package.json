@@ -2,7 +2,8 @@
     "name": "vscode-java-server-pack",
     "displayName": "Java Server Extension Pack",
     "description": "These are some of the extensions of java servers.",
-    "version": "0.0.2",
+    "version": "0.0.3",
+    "icon": "icon.png",
     "publisher": "SummerSun",
     "preview": true,
     "engines": {
